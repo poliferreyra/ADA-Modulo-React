@@ -1,0 +1,13 @@
+.layout {
+  height: 100vh;
+  width: 80vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../../src/assets/wireless-keyboard-mouse-colorful-stick-paper.jpg");
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}

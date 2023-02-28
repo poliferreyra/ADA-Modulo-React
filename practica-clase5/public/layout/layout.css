@@ -1,0 +1,21 @@
+.layout{
+    width: 1300px;
+    min-height: 500px;
+    margin: 30px;
+    background-image: url("../../src/assets/5291450.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.span{
+    background-color: tomato;
+    padding: 20px;
+    color: aliceblue;
+}
