@@ -24,7 +24,7 @@ export const Ejercicio3 = () => {
   const [tema, setTema] = useState(temas[0]);
   const changeTema = () => {
     const randomTema = Math.floor(Math.random() * temas.length);
-
+    
     setTema(temas[randomTema]);
     console.log(tema)
   };
